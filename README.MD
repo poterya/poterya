@@ -35,7 +35,7 @@
 ### **Advanced Skills**
 
 ```javascript
-const alexeySkills = {
+const Skills = {
   javascript: {
     level: "Advanced",
     expertise: [
