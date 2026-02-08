@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hello, I'm Alexey Skvortsov
+ Hello, I'm Alexey Skvortsov
 </h1>
 
 <h3 align="center">
-  Middle Frontend Developer 
+  Frontend Developer 
 </h3>
 
 <p align="center">
